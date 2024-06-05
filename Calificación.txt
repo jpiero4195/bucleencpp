@@ -1,0 +1,3 @@
+Calificación: 2/2
+
+Utilice el archivo .gitignore para evitar subir los archivos de extensión .exe
